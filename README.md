@@ -10,7 +10,7 @@ This project will work around with:
 
 Use:
 
-To use programs simply use
+To use the programs simply:
 
 ```wget https://github.com/stringpilot/Linux-Forensics/blob/main/live_host_interogation.sh```
 Add chmod +x
@@ -20,4 +20,4 @@ Execute: ./live_host_interogation.sh
   - Wait till the program finishes and view the output file in your directory
 
 
-Thank you
+Happy Hunting :)
